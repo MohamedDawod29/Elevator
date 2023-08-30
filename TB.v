@@ -6,7 +6,7 @@
 // 
 // Create Date: 08/30/2023 
 // Design Name: 
-// Module Name: elevator_TB
+// Module Name: elevator_tb
 // Project Name: elevator
 // Target Devices: 
 // Tool Versions: 
